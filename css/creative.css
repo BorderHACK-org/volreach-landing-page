@@ -178,12 +178,16 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(../img/iStock_000015133180_Large_dark.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.header-image {
+    filter: brightness(50%);
 }
 
 header .header-content {
@@ -473,4 +477,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.team-img {
+    width: 100%;
 }

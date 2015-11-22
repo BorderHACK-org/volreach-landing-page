@@ -5,3 +5,4 @@
 
 - convert less to sass
 - use sass for development instead of building on css
+- clean redundant files/imgs etc...
