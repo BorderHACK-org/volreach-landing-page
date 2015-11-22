@@ -1,6 +1,6 @@
 - add team members' images
 - add logo
-- add brand colors (wat brand)
+- add brand colors
 - populate other sections with content
 
 - convert less to sass
